@@ -1,2 +1,1 @@
-# logic_vault
-it is a basic if else use case
+Logic vault is a repository containing basic c programs
